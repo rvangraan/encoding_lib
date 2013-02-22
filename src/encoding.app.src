@@ -1,0 +1,11 @@
+{application, encoding,
+ [
+  {description, "OSW encoding utils"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
