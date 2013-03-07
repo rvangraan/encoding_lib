@@ -1,6 +1,6 @@
-{application, encoding,
+{application, encoding_lib,
  [
-  {description, "OSW encoding utils"},
+  {description, "Encoding utils"},
   {vsn, "1.0.0"},
   {registered, []},
   {applications, [
